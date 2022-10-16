@@ -1,0 +1,8 @@
+<html> 
+<head>
+<title> scrollabale
+</title>
+</head>
+<body>
+<marquee width="50%" height="50"  direction="up">hiii</marquee>
+</html>
